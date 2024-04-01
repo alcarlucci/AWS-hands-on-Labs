@@ -2,7 +2,7 @@
 
 Repositório com vários Laboratórios práticos na AWS.
 
-## Laboratório realizados
+## Laboratórios separados por Categoria
 
 - [Compute](./Compute/)
 - [Network](./Network/)
