@@ -1,2 +1,13 @@
-# AWS-hands-on-Labs
-Laboratórios práticos na AWS: Compute; Network; Data; Storage
+# AWS Hands-on Labs
+
+Repositório com vários Laboratórios práticos na AWS.
+
+## Laboratório realizados
+
+- [Compute](./Compute/)
+- [Network](./Network/)
+- [Data](./Data/)
+- [Storage](./Storage/)
+
+---
+Bons estudos! - ***André Carlucci***
